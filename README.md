@@ -8,8 +8,6 @@ If you don't like any of the strategies your analysts have served up, there are 
 
 At the end of each year you can fire analysts and hire more. Keep in mind that you have to pay them! They start at 50 sesterces per annum, and every time you use a strategy they came up with, the next year that analyst's ego inflates and their salary goes up 50 sesterces. To help with making these difficult decisions (and before selecting which strategy to adopt for the year) you can type in "HISTORY" to see all analysts' track records. 
 
-Bona fortuna!
-
 
 **FAQs**:
 
@@ -37,5 +35,7 @@ Probably not.
 **Play online**
 
 If you want to play this game online in Colab, follow [this link](https://colab.research.google.com/drive/1fGurgoJpb5MF7RZxirfwCpYwEajESP3K). 
+
+Bona fortuna!
 
 
