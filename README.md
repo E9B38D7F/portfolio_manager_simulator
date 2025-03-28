@@ -34,6 +34,8 @@ Please don't ask that question.
 Probably not. 
 
 
-If you want to play this game online in Colab, follow [this link](https://colab.research.google.com/drive/1fGurgoJpb5MF7RZxirfwCpYwEajESP3K).
+**Play online**
+
+If you want to play this game online in Colab, follow [this link](https://colab.research.google.com/drive/1fGurgoJpb5MF7RZxirfwCpYwEajESP3K). 
 
 
