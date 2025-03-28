@@ -13,20 +13,27 @@ Bona fortuna!
 
 **FAQs**:
 
-> "Why can't I run multiple strategies per year?"
+> *Why can't I run multiple strategies per year?*
 
 The strategies your analysts produce are mathematically advanced and computation-intensive. Even the most well-resourced portfolio manager has access to only so many abacuses and Greeks. 
 
-> "Why can't I use leverage to multiply my returns?"
+> *Why can't I use leverage to multiply my returns?*
 
 It is many centuries before Irving D. Leverage comes up with the idea in 1898. 
 
-> "Why can't I reuse a good strategy the next year?"
+> *Why can't I reuse a good strategy the next year?*
 
 This isn't Germania, this is Rome - markets are efficient, things move quickly, and alpha certainly doesn't last longer than a year. 
 
-> "Why can't I trade slaves?"
+> *Why can't I trade slaves?*
 
 Please don't ask that question.
+
+> *Is this really what you think a portfolio manager's job is like?*
+
+Probably not. 
+
+
+If you want to play this game online in Colab, follow [this link](https://colab.research.google.com/drive/1fGurgoJpb5MF7RZxirfwCpYwEajESP3K).
 
 
