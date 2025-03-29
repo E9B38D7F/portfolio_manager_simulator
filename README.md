@@ -32,9 +32,11 @@ Please don't ask that question.
 Probably not. 
 
 
-**Play online**
+**To play**
 
 If you want to play this game online in Colab, follow [this link](https://colab.research.google.com/drive/1fGurgoJpb5MF7RZxirfwCpYwEajESP3K). 
+
+To play offline, download all the files in this project and run the two cells in pm_sim.ipynb. 
 
 Bona fortuna!
 
